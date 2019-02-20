@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FABC-4E7E
+
+ Directory of C:\Users\rmanem\flipcard
+
+20-02-2019  16:31    <DIR>          .
+20-02-2019  16:31    <DIR>          ..
+13-02-2019  19:27                16 login.java.txt
+20-02-2019  16:31                 0 test2.txt
+               2 File(s)             16 bytes
+               2 Dir(s)   8,084,918,272 bytes free
